@@ -73,6 +73,9 @@ def rainbow_cycle(wait):
     pixels.show()
     time.sleep(wait)
 
+    
+time.sleep(10)
+  
 
 # Main loop
 while True:
